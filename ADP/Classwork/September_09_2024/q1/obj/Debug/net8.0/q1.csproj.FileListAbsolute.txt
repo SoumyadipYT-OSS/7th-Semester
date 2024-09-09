@@ -1,0 +1,15 @@
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/bin/Debug/net8.0/q1
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/bin/Debug/net8.0/q1.deps.json
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/bin/Debug/net8.0/q1.runtimeconfig.json
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/bin/Debug/net8.0/q1.dll
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/bin/Debug/net8.0/q1.pdb
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/q1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/q1.AssemblyInfoInputs.cache
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/q1.AssemblyInfo.cs
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/q1.csproj.CoreCompileInputs.cache
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/q1.sourcelink.json
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/q1.dll
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/refint/q1.dll
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/q1.pdb
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/q1.genruntimeconfig.cache
+/workspaces/7th-Semester/ADP/Classwork/September_09_2024/q1/obj/Debug/net8.0/ref/q1.dll
