@@ -50,7 +50,7 @@ class NonCSE extends Marks {
     }
 }
 
-public class Q2 {
+public class q2 {
     public static void main(String[] args) {
         CSE csStudent1 = new CSE(7.8f, 8.9f, 8.5f);
         NonCSE itStudent2 = new NonCSE(8.8f, 9.4f, 8.7f);
